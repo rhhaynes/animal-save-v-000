@@ -10,6 +10,8 @@ html {
 
 @media screen and (min-width: 406px) and (max-width: 1090px) {
   #monkey {
-    top: 100px;
+    position: fixed;
+    top: 0;
+    right: 0;
   }
 }
