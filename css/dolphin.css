@@ -18,6 +18,6 @@ html {
   right: 0;
 }
 
-@media only screen and (min-width: 642px) and (max-width: 1090px) {
+@media screen and (min-width: 642px) and (max-width: 1090px) {
   transform: rotate(0.25turn);
 }
